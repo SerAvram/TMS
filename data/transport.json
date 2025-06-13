@@ -1,0 +1,4 @@
+[
+  {"type":"bus",      "number":"61", "route":["A","B","C"]},
+  {"type":"marshrutka","number":"14","route":["C","B","A"]}
+]
